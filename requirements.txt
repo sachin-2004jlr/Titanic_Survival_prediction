@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+xgboost
+plotly
+confluent-kafka
+simplejson
+streamlit-lottie
+requests

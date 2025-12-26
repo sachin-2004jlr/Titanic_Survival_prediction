@@ -1,0 +1,6 @@
+{
+    "app_name": "TITANIC PRO SYSTEMS",
+    "version": "3.0.0",
+    "theme": "Neon Deep-Ocean",
+    "features": ["XGBoost Core", "Kafka Stream", "Neural Analytics"]
+}
